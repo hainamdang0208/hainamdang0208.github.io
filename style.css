@@ -1,0 +1,18 @@
+.carousel-inner img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+iframe{
+    overflow: hidden;
+}
+body{
+    height: 1500px;
+}
+.new-product{
+    margin-top: 30px;
+}
+.rounded-circle{
+    object-fit: contain;
+    box-shadow: 1px 1px 100px gray
+}
